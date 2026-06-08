@@ -87,11 +87,6 @@ This project simulates an automotive dashboard system and infotainment interface
 
 ---
 
-## 📺 PCB
-
-![PCB](ProjectFinal/DesignPCB/PCB.pdf) 
-
----
 
 # 🚀 Getting Started 
 
