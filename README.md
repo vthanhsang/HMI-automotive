@@ -94,7 +94,7 @@ This project simulates an automotive dashboard system and infotainment interface
 
 ```bash
 
-git clone https://github.com/your-username/HMI-Automotive.git
+git clone https://github.com/vthanhsang/HMI-automotive.git
 
 ```
 
