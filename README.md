@@ -77,19 +77,19 @@ This project simulates an automotive dashboard system and infotainment interface
 
 ## 🚘 Cluster HMI 
 
-![Cluster](images/cluster.png) 
+![Cluster](ProjectFinal/images/cluster.png) 
 
 --- 
 
 ## 📺 IVI HMI 
 
-![IVI](images/IVI.png) 
+![IVI](ProjectFinal/images/IVI.png) 
 
 ---
 
 ## 📺 PCB
 
-![PCB](DesignPCB/PCB.pdf) 
+![PCB](ProjectFinal/DesignPCB/PCB.pdf) 
 
 ---
 
