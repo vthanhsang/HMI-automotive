@@ -2,14 +2,14 @@
 
 HMI-Automotive is an Automotive Human-Machine Interface (HMI) project developed using **Qt 5.12.2**. The system includes: 
 
-- 🚘 **Cluster HMI** 
-- 📺 **IVI (In-Vehicle Infotainment)**
+- **Cluster HMI** 
+- **IVI (In-Vehicle Infotainment)**
 
 The application communicates directly with an **ESP32** through **USB-UART Serial Communication** to receive sensor data and control external peripherals.
 
 ---
 
-# 📌 Overview
+# Overview
 
 This project simulates an automotive dashboard system and infotainment interface using **Qt** and **ESP32**. The system can: 
 
@@ -21,7 +21,7 @@ This project simulates an automotive dashboard system and infotainment interface
 
 ---
 
-# ✨ Features
+# Features
 
 ### Cluster HMI
 
@@ -63,7 +63,7 @@ This project simulates an automotive dashboard system and infotainment interface
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 | Technology | Description | 
 |------------|-------------| 
 | Qt 5.12.2  | GUI Framework | 
@@ -73,22 +73,22 @@ This project simulates an automotive dashboard system and infotainment interface
 
 ---
  
-# 📷 Project Images 
+# Project Images 
 
-## 🚘 Cluster HMI 
+## Cluster HMI 
 
 ![Cluster](ProjectFinal/images/cluster.png) 
 
 --- 
 
-## 📺 IVI HMI 
+## IVI HMI 
 
 ![IVI](ProjectFinal/images/IVI.png) 
 
 ---
 
 
-# 🚀 Getting Started 
+# Getting Started 
 
 ## Clone Repository
 
